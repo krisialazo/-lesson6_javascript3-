@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 18, 2018 
 
 ### Student Name:  
-(First and Last Name)
+Krisia Lazo 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we learned how to make the left and right arrows function and how to add additional images 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://krisialazo.github.io/-lesson6_javascript3-/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. learned how to access elements by id, tag name, class, name, or selector 
+2. how to access element content, css properties and attributes 
+3. how to create and close new browser tabs and windows with an app 
 
